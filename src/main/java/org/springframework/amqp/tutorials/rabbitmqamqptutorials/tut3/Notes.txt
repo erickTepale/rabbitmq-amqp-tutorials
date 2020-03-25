@@ -1,0 +1,4 @@
+Spring Web Starter dependany interferes with this tutorial.!
+
+This is because both terminals execute on port 8080.
+Need to tackle this maybegit  at some point.
