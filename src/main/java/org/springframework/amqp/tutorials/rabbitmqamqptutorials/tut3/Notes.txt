@@ -2,3 +2,9 @@ Spring Web Starter dependany interferes with this tutorial.!
 
 This is because both terminals execute on port 8080.
 Need to tackle this maybegit  at some point.
+
+** Notes from tutorial **
+Production [Non-]Suitability Disclaimer
+Please keep in mind that this and other tutorials are, well, tutorials. They demonstrate one new concept at a time and may intentionally oversimplify some things and leave out others. For example topics such as connection management, error handling, connection recovery, concurrency and metric collection are largely omitted for the sake of brevity. Such simplified code should not be considered production ready.
+
+Please take a look at the rest of the documentation before going live with your app. We particularly recommend the following guides: Publisher Confirms and Consumer Acknowledgements, Production Checklist and Monitoring.
